@@ -1,0 +1,10 @@
+Yaakovgreeter.sayhello();
+jengreeter.saybye();
+Johngreeter.saybye();
+Jasongreeter.saybye();
+Jimgreeter.saybye();
+Paulgreeter.sayhello();
+Frankgreeter.sayhello();
+Larrygreeter.sayhello();
+Paulagreeter.sayhello();
+Lauragreeter.sayhello();
